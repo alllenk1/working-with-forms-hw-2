@@ -1,0 +1,20 @@
+.Feed {
+    width: 500px;
+}
+
+.Feed-Container {
+    display: flex;
+}
+
+.Feed-Post {
+    display: flex;
+    justify-content: space-between;
+
+    width: 100%;
+
+    border-left: 1px solid lightgray;
+}
+
+.Feed-Text {
+    padding-left: 15px;
+}
