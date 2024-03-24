@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/working-with-forms-hw-2/static/css/main.ad7dbd9a.css",
+    "main.js": "/working-with-forms-hw-2/static/js/main.49ea0c18.js",
+    "index.html": "/working-with-forms-hw-2/index.html",
+    "main.ad7dbd9a.css.map": "/working-with-forms-hw-2/static/css/main.ad7dbd9a.css.map",
+    "main.49ea0c18.js.map": "/working-with-forms-hw-2/static/js/main.49ea0c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad7dbd9a.css",
+    "static/js/main.49ea0c18.js"
+  ]
+}
