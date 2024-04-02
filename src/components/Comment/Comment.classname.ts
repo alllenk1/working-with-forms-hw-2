@@ -1,3 +1,3 @@
 import {cn} from "@bem-react/classname";
 
-export const cnFeed = cn('Feed');
+export const cnComment = cn('Comment');

@@ -1,3 +1,9 @@
 .App {
+  width: 550px;
+
   margin-left: 8px;
+}
+
+.App-Container {
+  display: flex;
 }
